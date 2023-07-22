@@ -1,0 +1,21 @@
+.container {
+    width: 1158px;
+    margin: 0 auto;
+}
+
+.slick-prev:before,
+.slick-next:before {
+
+    font-size: 40px;
+
+    color: #471c1c;
+
+}
+
+.slick-prev {
+    left: -49px;
+}
+
+.slick-next {
+    right: -31px;
+}
